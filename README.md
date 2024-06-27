@@ -53,8 +53,3 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
 2. Open your browser and go to `http://localhost:3000` to see the application in action.
 
-### Building for Production
-
-To create a production build of the application, run:
-```bash
-npm run build
