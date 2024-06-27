@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fitness Club
 
 Welcome to the Fitness Club, a website where you can browse different exercises by body part and practice. The project leverages the Rapid API to import exercises, allowing users to explore various workouts and related content.
